@@ -1,4 +1,4 @@
-# 🦀 Rustlings – My Rust Learning Journey
+# 🦀 Rustlings
 
 This repository is part of my journey to learn the Rust programming language through hands-on practice.
 
